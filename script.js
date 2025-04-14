@@ -96,7 +96,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             name: "3. AMAD Wilson",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "52",
             job: "Broadcaster-Preacher",
             incumbent: false,
@@ -131,7 +131,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             name: "8. BALLON Roberto",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "56",
             job: "Fish Farmer",
             incumbent: false,
@@ -159,7 +159,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             name: "12. BOSITA Colonel",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "58",
             job: "Member House of Representatives",
             incumbent: false,
@@ -215,7 +215,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             name: "20. DE ALBAN Angelo",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "43",
             job: "Lawyer/Teacher",
             incumbent: false,
@@ -264,7 +264,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             name: "27. GAMBOA Marc Louie",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "40",
             job: "Businessman/Vlogger",
             incumbent: false,
@@ -307,7 +307,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             name: "33. LACSON Ping",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "76",
             job: "Businessman",
             incumbent: false,
@@ -335,7 +335,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             name: "38. MARCOLETA Rodante",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "71",
             job: "Lawyer/Legislator",
             incumbent: false,
@@ -349,21 +349,21 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             name: "40. MARQUEZ Norman",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "63",
             job: "Animal Welfare Advocate",
             incumbent: false,
         },
         {
             name: "41. MARTINEZ Eric",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "52",
             job: "Congressman",
             incumbent: false,
         },
         {
             name: "42. MATA Marites",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "52",
             job: "Physician",
             incumbent: false,
@@ -384,14 +384,14 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             name: "45. MENDOZA Heidi",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "61",
             job: "Certified Public Accountant and Professor",
             incumbent: false,
         },
         {
             name: "46. MONTEMAYOR Joey",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "62",
             job: "Physician/Lawyer",
             incumbent: false,
@@ -405,7 +405,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             name: "48. OLIVAR Jose Jessie",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "57",
             job: "Businessman",
             incumbent: false,
@@ -433,7 +433,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             name: "53. QUIBOLOY Apollo",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "74",
             job: "Evangelist/Pastor",
             incumbent: false,
@@ -447,21 +447,21 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             name: "55. REVILLAME Willie",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "63",
             job: "TV Host",
             incumbent: false,
         },
         {
             name: "56. RODRIGUEZ Vic",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "50",
             job: "Lawyer",
             incumbent: false,
         },
         {
             name: "57. SAHIDULLA Nur-ana",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "63",
             job: "Housewife",
             incumbent: false,
@@ -496,7 +496,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             name: "62. TULFO Ben Bitag",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "69",
             job: "Journalist",
             incumbent: false,
@@ -510,14 +510,14 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             name: "64. VALBUENA Mar Manibela",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "44",
             job: "Transport Operator",
             incumbent: false,
         },
         {
             name: "65. VERCELLES Leandro",
-            party: "N/A - Indepedent",
+            party: "Independent",
             age: "67",
             job: "Lawyer",
             incumbent: false,
