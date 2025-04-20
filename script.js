@@ -619,10 +619,17 @@ document.addEventListener("DOMContentLoaded", function () {
     // Social share buttons
     document.querySelectorAll('.share-buttons a').forEach(button => {
         button.addEventListener('click', function(e) {
-            e.preventDefault();
             const platform = this.classList.contains('facebook') ? 'Facebook' :
-                           this.classList.contains('twitter') ? 'Twitter' : 'WhatsApp';
+                        this.classList.contains('twitter') ? 'Twitter' :
+                        this.classList.contains('gforms') ? 'GoogleForms' :
+                        this.classList.contains('canva') ? 'Canva' : 'WhatsApp';
             
+            // For Google Forms and Canva, use their direct links (no sharing popup)
+            if (platform === 'GoogleForms' || platform === 'Canva') {
+                return; // Let the default link behavior work (no e.preventDefault())
+            }
+
+            e.preventDefault();
             let url;
             const shareText = 'Check out this voter education website for the 2025 Philippine Elections!';
             const shareUrl = window.location.href;
